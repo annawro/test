@@ -1,4 +1,5 @@
 Praca dyplowowa poczatek
-***********************
+^^^^^^^^^^^^^
 pierwszy akapit :)
-drugi akapit:)
+drugi akapit:) 
+&&&&&&&&&&&&&&&&
